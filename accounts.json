@@ -1,0 +1,55 @@
+{
+  "nextId": 13,
+  "accounts": [
+    {
+      "id": 1,
+      "name": "Luis",
+      "balance": 1234
+    },
+    {
+      "id": 3,
+      "name": "Rafic Reis",
+      "balance": 7021
+    },
+    {
+      "id": 4,
+      "name": "Guilherme",
+      "balance": 1000
+    },
+    {
+      "id": 5,
+      "name": "Matheus",
+      "balance": 1000
+    },
+    {
+      "id": 6,
+      "name": "Richard",
+      "balance": 1000
+    },
+    {
+      "id": 8,
+      "name": "Pantho",
+      "balance": 1000
+    },
+    {
+      "id": 9,
+      "name": "Pantho2",
+      "balance": 500
+    },
+    {
+      "id": 10,
+      "name": "Pantho",
+      "balance": 1000
+    },
+    {
+      "id": 11,
+      "name": "Pantho",
+      "balance": 1000
+    },
+    {
+      "id": 12,
+      "name": "Pantho",
+      "balance": 1000
+    }
+  ]
+}

@@ -1,0 +1,246 @@
+2022-10-26T23:41:46.828Z [myBank] info : API online
+2022-10-26T23:42:12.094Z [myBank] info : API online
+2022-10-26T23:42:43.742Z [myBank] info : API online
+2022-10-26T23:43:21.049Z [myBank] info : API online
+2022-10-26T23:45:09.590Z [myBank] info : API online
+2022-10-26T23:45:21.794Z [myBank] info : API online
+2022-10-26T23:46:20.910Z [myBank] info : API online
+2022-10-26T23:54:29.416Z [myBank] info : API online, file created
+2022-10-26T23:54:43.134Z [myBank] error : tried GET - in /account - but ENOENT: no such file or directory, open 'C:\Users\teteu\OneDrive\Área de Trabalho\Back-end\myBank\accounts.json'
+2022-10-26T23:55:00.577Z [myBank] error : tried GET - in /account - but ENOENT: no such file or directory, open 'C:\Users\teteu\OneDrive\Área de Trabalho\Back-end\myBank\accounts.json'
+2022-10-26T23:55:01.249Z [myBank] info : API online, file created
+2022-10-26T23:55:09.536Z [myBank] error : Tried GET - in /account - but ENOENT: no such file or directory, open 'C:\Users\teteu\OneDrive\Área de Trabalho\Back-end\myBank\accounts.json'
+2022-10-26T23:55:24.367Z [myBank] info : API online, file created
+2022-10-27T00:01:52.575Z [myBank] info : API online
+2022-10-27T00:03:06.534Z [myBank] info : API online
+2022-10-27T00:03:41.981Z [myBank] info : API online
+2022-10-27T00:03:55.415Z [myBank] info : Post /account new account: {"id":1,"name":"Samuel","balance":40040}
+2022-10-27T00:04:08.246Z [myBank] info : Get /account/1 account: {"id":1,"name":"Samuel","balance":40040}
+2022-10-27T00:04:18.375Z [myBank] info : Get /account
+2022-10-27T00:04:24.957Z [myBank] error : Tried DELETE - in /account - but account is not defined
+2022-10-27T00:05:27.022Z [myBank] info : API online
+2022-10-27T00:05:27.599Z [myBank] info : Post /account new account: {"id":2,"name":"Samuel","balance":40040}
+2022-10-27T00:05:35.955Z [myBank] info : Deleted /account/2
+2022-10-27T00:05:46.843Z [myBank] info : Post /account new account: {"id":3,"name":"Samuel","balance":40040}
+2022-10-27T00:05:58.838Z [myBank] info : Put /account: {"id":3,"name":"Rafic Reis","balance":400}
+2022-10-27T00:06:10.719Z [myBank] info : Patch /account/updateBalance new balance: {"id":3,"balance":70200}
+2022-10-27T00:10:34.006Z [myBank] info : API online
+2022-10-27T00:11:08.010Z [myBank] error : Tried POST - in /account - but Informe um name(nome) e balance(saldo)
+2022-10-27T00:11:38.738Z [myBank] info : API online
+2022-10-27T00:12:52.227Z [myBank] info : API online
+2022-10-27T00:13:11.084Z [myBank] info : API online
+2022-10-27T00:19:46.677Z [myBank] info : API online
+2022-10-27T00:21:50.686Z [myBank] info : API online
+2022-10-27T00:27:27.620Z [myBank] info : API online
+2022-10-27T00:28:31.185Z [myBank] info : API online
+2022-10-27T00:30:29.569Z [myBank] info : Deleted /account/5
+2022-10-27T00:30:33.721Z [myBank] info : Deleted /account/5
+2022-10-27T00:33:15.729Z [myBank] info : API online
+2022-10-27T00:57:03.956Z [myBank] info : API online
+2022-10-27T00:58:09.797Z [myBank] info : API online
+2022-10-27T00:58:10.531Z [myBank] info : API online
+2022-10-27T00:58:40.475Z [myBank] info : Get /account
+2022-10-27T01:07:19.328Z [myBank] info : Get /account
+2022-10-27T01:11:06.666Z [myBank] info : API online
+2022-10-27T01:11:11.480Z [myBank] info : Get /account
+2022-10-30T20:44:48.059Z [myBank] info : API online
+2022-10-30T20:45:20.629Z [myBank] info : Get /account
+2022-10-30T20:45:35.386Z [myBank] info : Get /account/2 account: undefined
+2022-10-30T20:45:48.251Z [myBank] info : Put /account: {"id":3,"name":"Rafic Reis","balance":4000}
+2022-10-30T20:45:54.048Z [myBank] info : Get /account/3 account: {"id":3,"name":"Rafic Reis","balance":4000}
+2022-10-30T20:46:01.115Z [myBank] error : Tried PATCH - in /account - but Informe um Id e balance(saldo)
+2022-10-30T20:46:31.726Z [myBank] error : Tried PATCH - in /account - but Informe um Id e balance(saldo)
+2022-10-30T20:46:37.369Z [myBank] error : Tried PATCH - in /account - but Informe um Id e balance(saldo)
+2022-10-30T21:09:47.961Z [myBank] info : API online
+2022-10-30T21:10:10.991Z [myBank] info : Post /account new account: {"id":4,"name":"Sua mãe aquela gorda","balance":40040}
+2022-10-30T21:47:10.070Z [myBank] info : Post /account new account: {"id":5,"name":"Sua mãe aquela gorda","balance":40040}
+2022-10-30T21:47:21.262Z [myBank] info : Get /account/1 account: undefined
+2022-10-30T21:47:25.247Z [myBank] info : Get /account/4 account: {"id":4,"name":"Sua mãe aquela gorda","balance":40040}
+2022-10-30T21:47:27.762Z [myBank] info : Get /account/3 account: {"id":3,"name":"Rafic Reis","balance":4000}
+2022-10-30T21:47:33.668Z [myBank] info : Get /account
+2022-10-30T21:48:08.406Z [myBank] info : Put /account: {"id":3,"name":"Rafic Reis","balance":4534}
+2022-10-30T21:48:13.819Z [myBank] error : Tried PATCH - in /account - but Informe um Id e balance(saldo)
+2022-10-30T21:48:34.515Z [myBank] error : Tried PATCH - in /account - but Informe um Id e balance(saldo)
+2022-10-30T21:48:38.825Z [myBank] info : API online
+2022-10-30T21:48:40.945Z [myBank] error : Tried PATCH - in /account - but Informe um Id e balance(saldo)
+2022-10-30T21:48:58.205Z [myBank] error : Tried PATCH - in /account - but Informe um Id e balance(saldo)
+2022-10-30T21:49:38.366Z [myBank] info : API online
+2022-10-30T21:49:40.328Z [myBank] info : Patch /account/updateBalance new balance: {"id":4,"balance":7020}
+2022-10-30T21:49:40.329Z [myBank] error : Tried PATCH - in /account - but data is not defined
+2022-10-30T21:51:01.354Z [myBank] info : API online
+2022-10-30T21:51:03.479Z [myBank] info : Patch /account/updateBalance new balance: {"id":4,"balance":7020}
+2022-10-30T21:51:27.442Z [myBank] info : API online
+2022-10-30T21:51:28.946Z [myBank] info : Patch /account/updateBalance new balance: {"id":4,"balance":7020}
+2022-10-30T22:00:09.369Z [myBank] info : Get /account
+2022-10-30T22:04:08.636Z [myBank] info : API online
+2022-10-30T22:04:17.755Z [myBank] info : Patch /account/updateBalance new balance: {"id":4,"balance":7020}
+2022-10-30T23:07:35.769Z [myBank] info : API online
+2022-10-30T23:08:52.519Z [myBank] info : API online
+2022-10-30T23:09:42.000Z [myBank] info : API online
+2022-10-30T23:10:22.271Z [myBank] info : API online
+2022-10-30T23:10:40.573Z [myBank] info : API online
+2022-10-30T23:11:17.278Z [myBank] info : API online
+2022-10-30T23:11:45.534Z [myBank] info : API online
+2022-10-30T23:11:51.376Z [myBank] info : Get /account
+2022-10-30T23:11:57.426Z [myBank] error : Tried GET - in /account - but Cannot read properties of undefined (reading 'find')
+2022-10-30T23:12:26.294Z [myBank] error : Tried GET - in /account - but Cannot read properties of undefined (reading 'find')
+2022-10-30T23:13:32.174Z [myBank] info : API online
+2022-10-30T23:13:33.805Z [myBank] error : Tried GET - in /account - but data.find is not a function
+2022-10-30T23:15:36.911Z [myBank] info : API online
+2022-10-30T23:15:40.788Z [myBank] info : Get /account/4 account: {"id":4,"name":"Sua mãe aquela gorda","balance":7020}
+2022-10-30T23:16:16.904Z [myBank] info : API online
+2022-10-30T23:16:38.572Z [myBank] info : API online
+2022-10-30T23:16:53.814Z [myBank] error : Tried POST - in /account - but repository.insertAccount is not a function
+2022-10-30T23:17:09.773Z [myBank] info : API online
+2022-10-30T23:17:10.890Z [myBank] info : Post /account new account: {"name":"Sua mãe aquela legal2","balance":40040}
+2022-10-30T23:17:56.380Z [myBank] info : API online
+2022-10-30T23:17:59.101Z [myBank] info : Post /account new account: {"name":"Sua mãe aquela legal2","balance":40040}
+2022-10-30T23:18:14.371Z [myBank] info : API online
+2022-10-30T23:18:17.361Z [myBank] info : Post /account new account: {"name":"Sua mãe aquela legal2","balance":40040}
+2022-10-30T23:19:29.058Z [myBank] info : API online
+2022-10-30T23:20:02.067Z [myBank] info : API online
+2022-10-30T23:20:42.831Z [myBank] info : API online
+2022-10-30T23:20:47.561Z [myBank] info : Post /account new account: {"id":7,"name":"Sua mãe aquela legal5","balance":40040}
+2022-10-30T23:22:57.570Z [myBank] info : API online
+2022-10-30T23:23:37.431Z [myBank] info : API online
+2022-10-30T23:23:54.557Z [myBank] info : API online
+2022-10-30T23:24:25.200Z [myBank] info : API online
+2022-10-30T23:24:38.040Z [myBank] info : API online
+2022-10-30T23:24:53.933Z [myBank] info : API online
+2022-10-30T23:25:00.467Z [myBank] info : API online
+2022-10-30T23:25:25.965Z [myBank] info : API online
+2022-10-30T23:26:45.521Z [myBank] info : API online
+2022-10-30T23:29:11.718Z [myBank] info : API online
+2022-10-30T23:29:28.590Z [myBank] info : API online
+2022-10-30T23:29:48.806Z [myBank] info : API online
+2022-10-30T23:30:24.160Z [myBank] info : API online
+2022-10-30T23:31:41.665Z [myBank] info : API online
+2022-10-30T23:33:24.705Z [myBank] info : API online
+2022-10-30T23:34:21.610Z [myBank] info : API online
+2022-10-30T23:34:51.977Z [myBank] info : API online
+2022-10-31T17:18:21.632Z [myBank] info : API online
+2022-10-31T17:18:29.868Z [myBank] info : API online
+2022-10-31T17:18:47.833Z [myBank] error : Tried PATCH - in /account - but data.find is not a function
+2022-10-31T17:18:48.371Z [myBank] info : API online
+2022-10-31T17:19:44.976Z [myBank] info : API online
+2022-10-31T17:19:46.001Z [myBank] error : Tried PATCH - in /account - but data.find is not a function
+2022-10-31T17:19:51.065Z [myBank] error : Tried PATCH - in /account - but data.find is not a function
+2022-10-31T17:20:09.307Z [myBank] info : API online
+2022-10-31T17:20:31.130Z [myBank] info : API online
+2022-10-31T17:20:48.327Z [myBank] info : API online
+2022-10-31T17:21:29.200Z [myBank] info : API online
+2022-10-31T17:22:53.185Z [myBank] info : API online
+2022-10-31T17:22:58.299Z [myBank] error : Tried PATCH - in /account - but data.find is not a function
+2022-10-31T17:23:46.049Z [myBank] info : API online
+2022-10-31T17:23:47.133Z [myBank] error : Tried PATCH - in /account - but data.find is not a function
+2022-10-31T17:24:36.630Z [myBank] error : Tried GET - in /account - but data.find is not a function
+2022-10-31T17:24:56.617Z [myBank] info : Post /account new account: {"id":8,"name":"Sua mãe aquela legal5","balance":40040}
+2022-10-31T17:25:03.908Z [myBank] error : Tried GET - in /account - but data.find is not a function
+2022-10-31T17:25:29.650Z [myBank] info : API online
+2022-10-31T17:25:34.835Z [myBank] error : Tried GET - in /account - but data.find is not a function
+2022-10-31T17:25:48.617Z [myBank] info : Put /account: {"id":3,"name":"Rafic Reis","balance":4534}
+2022-10-31T17:25:56.180Z [myBank] error : Tried DELETE - in /account - but Id is not defined
+2022-10-31T17:26:38.102Z [myBank] error : Tried DELETE - in /account - but Id is not defined
+2022-10-31T17:26:41.657Z [myBank] error : Tried DELETE - in /account - but Id is not defined
+2022-10-31T17:26:51.779Z [myBank] error : Tried GET - in /account - but data.find is not a function
+2022-10-31T17:27:46.462Z [myBank] info : API online
+2022-10-31T17:27:49.001Z [myBank] info : Get /account
+2022-10-31T17:28:10.611Z [myBank] error : Tried DELETE - in /account - but Id is not defined
+2022-10-31T17:28:19.654Z [myBank] info : API online
+2022-10-31T17:28:21.016Z [myBank] info : Deleted /account/5
+2022-10-31T17:28:57.402Z [myBank] info : API online
+2022-10-31T17:29:02.352Z [myBank] info : Get /account/4 account: [{"id":3,"name":"Rafic Reis","balance":4534},{"id":4,"name":"Sua mãe aquela gorda","balance":7020},{"id":6,"name":"Sua mãe aquela legal2","balance":40040},{"id":7,"name":"Sua mãe aquela legal5","balance":40040},{"id":8,"name":"Sua mãe aquela legal5","balance":40040}]
+2022-10-31T17:29:12.775Z [myBank] info : Get /account/5 account: [{"id":3,"name":"Rafic Reis","balance":4534},{"id":4,"name":"Sua mãe aquela gorda","balance":7020},{"id":6,"name":"Sua mãe aquela legal2","balance":40040},{"id":7,"name":"Sua mãe aquela legal5","balance":40040},{"id":8,"name":"Sua mãe aquela legal5","balance":40040}]
+2022-10-31T17:29:43.904Z [myBank] info : Get /account/3 account: [{"id":3,"name":"Rafic Reis","balance":4534},{"id":4,"name":"Sua mãe aquela gorda","balance":7020},{"id":6,"name":"Sua mãe aquela legal2","balance":40040},{"id":7,"name":"Sua mãe aquela legal5","balance":40040},{"id":8,"name":"Sua mãe aquela legal5","balance":40040}]
+2022-10-31T17:30:32.768Z [myBank] info : API online
+2022-10-31T17:30:33.408Z [myBank] error : Tried GET - in /account - but getAccount is not defined
+2022-10-31T17:31:00.289Z [myBank] info : API online
+2022-10-31T17:31:01.152Z [myBank] error : Tried GET - in /account - but data.find is not a function
+2022-10-31T17:31:23.172Z [myBank] info : API online
+2022-10-31T17:31:25.562Z [myBank] error : Tried GET - in /account - but data.find is not a function
+2022-10-31T17:31:55.603Z [myBank] info : API online
+2022-10-31T17:33:27.816Z [myBank] info : API online
+2022-10-31T17:33:29.055Z [myBank] info : Get /account/3 account: {"id":3,"name":"Rafic Reis","balance":4534}
+2022-10-31T17:33:49.148Z [myBank] info : API online
+2022-10-31T17:33:50.357Z [myBank] info : Patch /account/updateBalance new balance: {"id":4,"balance":7021}
+2022-10-31T17:33:57.299Z [myBank] info : Get /account
+2022-10-31T17:34:00.155Z [myBank] info : Get /account
+2022-10-31T17:35:18.144Z [myBank] info : API online
+2022-10-31T17:35:54.681Z [myBank] info : Get /account
+2022-10-31T17:36:00.343Z [myBank] error : Tried GET - in /account - but Cannot read properties of undefined (reading 'find')
+2022-10-31T17:36:07.906Z [myBank] error : Tried GET - in /account - but Cannot read properties of undefined (reading 'find')
+2022-10-31T17:36:22.623Z [myBank] error : Tried PUT - in /account - but Cannot read properties of undefined (reading 'findIndex')
+2022-10-31T17:36:51.819Z [myBank] error : Tried POST - in /account - but Cannot read properties of undefined (reading 'push')
+2022-10-31T17:37:22.026Z [myBank] info : API online
+2022-10-31T17:37:26.071Z [myBank] error : Tried POST - in /account - but Cannot read properties of undefined (reading 'push')
+2022-10-31T17:37:28.971Z [myBank] error : Tried GET - in /account - but Cannot read properties of undefined (reading 'find')
+2022-10-31T17:37:39.410Z [myBank] info : Get /account
+2022-10-31T18:16:11.027Z [myBank] info : API online
+2022-10-31T18:16:13.312Z [myBank] info : Get /account
+2022-10-31T18:16:45.726Z [myBank] info : API online, file created
+2022-10-31T18:17:07.292Z [myBank] info : Post /account new account: {"id":1,"name":"Luis","balance":1234}
+2022-10-31T18:17:17.743Z [myBank] info : Post /account new account: {"id":2,"name":"Rafael","balance":12345}
+2022-10-31T18:17:28.219Z [myBank] info : Post /account new account: {"id":3,"name":"André","balance":123456}
+2022-10-31T18:17:37.309Z [myBank] info : Get /account/3 account: {"id":3,"name":"André","balance":123456}
+2022-10-31T18:17:40.810Z [myBank] info : Get /account
+2022-10-31T18:18:43.011Z [myBank] info : Deleted /account/2
+2022-10-31T18:18:48.522Z [myBank] info : Get /account
+2022-10-31T18:18:52.077Z [myBank] info : Get /account/3 account: {"id":3,"name":"André","balance":123456}
+2022-10-31T18:18:54.377Z [myBank] info : Get /account/1 account: {"id":1,"name":"Luis","balance":1234}
+2022-10-31T18:24:31.574Z [myBank] info : API online
+2022-10-31T18:26:06.394Z [myBank] info : API online
+2022-10-31T18:27:41.194Z [myBank] info : API online
+2022-10-31T18:29:08.899Z [myBank] info : API online
+2022-10-31T18:29:31.787Z [myBank] info : API online
+2022-10-31T18:29:39.688Z [myBank] info : API online
+2022-10-31T18:29:48.122Z [myBank] info : Put /account: {"id":3,"name":"Rafic Reis","balance":4534}
+2022-10-31T18:29:52.013Z [myBank] info : Get /account
+2022-10-31T18:29:59.682Z [myBank] error : Tried PATCH - in /account - but Registro não encontrado.
+2022-10-31T18:30:45.255Z [myBank] info : API online
+2022-10-31T18:30:47.074Z [myBank] info : Patch /account/updateBalance new balance: {"id":3,"balance":7021}
+2022-10-31T18:30:52.008Z [myBank] info : Get /account
+2022-10-31T22:08:59.453Z [myBank] info : API online
+2022-10-31T22:38:52.074Z [myBank] info : API online
+2022-10-31T22:39:43.382Z [myBank] info : API online
+2022-10-31T22:39:50.256Z [myBank] info : API online
+2022-10-31T22:41:03.189Z [myBank] info : API online
+2022-10-31T22:41:29.346Z [myBank] info : API online
+2022-10-31T22:41:57.641Z [myBank] info : API online
+2022-10-31T22:51:23.142Z [myBank] info : API online
+2022-10-31T22:52:12.445Z [myBank] info : Put /account: {"id":7,"name":"Rafic Reis","balance":4534}
+2022-10-31T22:53:54.139Z [myBank] info : API online
+2022-10-31T22:56:21.209Z [myBank] info : API online
+2022-10-31T22:56:32.293Z [myBank] info : API online
+2022-10-31T22:57:04.760Z [myBank] info : API online
+2022-11-09T20:03:05.042Z [myBank] info : API online
+2022-11-09T20:03:30.776Z [myBank] info : Get /account
+2022-11-09T20:03:40.475Z [myBank] info : Get /account
+2022-11-09T20:04:53.820Z [myBank] info : Get /account
+2022-11-09T20:06:27.504Z [myBank] info : API online
+2022-11-09T20:06:36.659Z [myBank] info : Get /account
+2022-11-09T20:07:01.699Z [myBank] info : API online
+2022-11-09T20:07:23.128Z [myBank] info : Get /account
+2022-11-09T20:10:26.271Z [myBank] info : API online
+2022-11-09T20:11:49.701Z [myBank] info : API online
+2022-11-09T20:13:26.293Z [myBank] info : API online
+2022-11-09T20:15:37.466Z [myBank] info : API online
+2022-11-09T20:19:01.042Z [myBank] info : API online
+2022-11-09T20:23:32.095Z [myBank] info : API online
+2022-11-09T20:23:56.658Z [myBank] info : API online
+2022-11-09T20:27:14.636Z [myBank] info : API online
+2022-11-09T20:28:21.274Z [myBank] info : API online
+2022-11-09T20:29:10.410Z [myBank] info : API online
+2022-11-09T20:29:31.202Z [myBank] info : API online
+2022-11-09T20:30:15.849Z [myBank] info : API online
+2022-11-09T20:31:00.638Z [myBank] info : API online
+2022-11-09T20:31:32.418Z [myBank] info : API online
+2022-11-09T20:31:58.748Z [myBank] info : API online
+2022-11-09T20:32:39.025Z [myBank] info : API online
+2022-11-09T20:32:54.085Z [myBank] info : API online
+2022-11-09T20:33:41.563Z [myBank] info : API online
+2022-11-09T20:37:55.531Z [myBank] info : API online
+2022-11-09T20:38:35.503Z [myBank] info : API online
+2022-11-09T20:38:37.979Z [myBank] info : Get /account
+2022-11-09T20:39:02.190Z [myBank] info : Get /account
+2022-11-09T20:39:58.938Z [myBank] info : API online
+2022-11-09T20:40:09.391Z [myBank] info : API online
